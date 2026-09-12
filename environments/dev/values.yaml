@@ -1,4 +1,4 @@
 image:
   repository: ghcr.io/dhrmukhe/ai-devops-demo
-  tag: "ec9fd299f8f6af0343ed7fe1e724e736c3cd66f2"
+  tag: "47f41f3ae843cbd313838698ca33c7b160fe10dc"
   pullPolicy: IfNotPresent
